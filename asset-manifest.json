@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/ibnusacad.github.io/advice-app/static/css/main.b6a552f5.chunk.css",
-    "main.js": "/ibnusacad.github.io/advice-app/static/js/main.a717dc9f.chunk.js",
-    "main.js.map": "/ibnusacad.github.io/advice-app/static/js/main.a717dc9f.chunk.js.map",
-    "runtime-main.js": "/ibnusacad.github.io/advice-app/static/js/runtime-main.a4983d25.js",
-    "runtime-main.js.map": "/ibnusacad.github.io/advice-app/static/js/runtime-main.a4983d25.js.map",
-    "static/css/2.4c25b0fb.chunk.css": "/ibnusacad.github.io/advice-app/static/css/2.4c25b0fb.chunk.css",
-    "static/js/2.516f7729.chunk.js": "/ibnusacad.github.io/advice-app/static/js/2.516f7729.chunk.js",
-    "static/js/2.516f7729.chunk.js.map": "/ibnusacad.github.io/advice-app/static/js/2.516f7729.chunk.js.map",
-    "index.html": "/ibnusacad.github.io/advice-app/index.html",
-    "precache-manifest.a78a85751c4f80bf737bc22c0c0c41d7.js": "/ibnusacad.github.io/advice-app/precache-manifest.a78a85751c4f80bf737bc22c0c0c41d7.js",
-    "service-worker.js": "/ibnusacad.github.io/advice-app/service-worker.js",
-    "static/css/2.4c25b0fb.chunk.css.map": "/ibnusacad.github.io/advice-app/static/css/2.4c25b0fb.chunk.css.map",
-    "static/css/main.b6a552f5.chunk.css.map": "/ibnusacad.github.io/advice-app/static/css/main.b6a552f5.chunk.css.map",
-    "static/js/2.516f7729.chunk.js.LICENSE.txt": "/ibnusacad.github.io/advice-app/static/js/2.516f7729.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/ibnusacad.github.io/advice-app/static/media/bg.2f0053a9.jpg",
-    "static/media/font-awesome.css": "/ibnusacad.github.io/advice-app/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/advice-app/static/css/main.afd23e73.chunk.css",
+    "main.js": "/advice-app/static/js/main.a717dc9f.chunk.js",
+    "main.js.map": "/advice-app/static/js/main.a717dc9f.chunk.js.map",
+    "runtime-main.js": "/advice-app/static/js/runtime-main.a4d8b64a.js",
+    "runtime-main.js.map": "/advice-app/static/js/runtime-main.a4d8b64a.js.map",
+    "static/css/2.007bafff.chunk.css": "/advice-app/static/css/2.007bafff.chunk.css",
+    "static/js/2.516f7729.chunk.js": "/advice-app/static/js/2.516f7729.chunk.js",
+    "static/js/2.516f7729.chunk.js.map": "/advice-app/static/js/2.516f7729.chunk.js.map",
+    "index.html": "/advice-app/index.html",
+    "precache-manifest.36d1578e9fa13dbea0cb5358d786f91c.js": "/advice-app/precache-manifest.36d1578e9fa13dbea0cb5358d786f91c.js",
+    "service-worker.js": "/advice-app/service-worker.js",
+    "static/css/2.007bafff.chunk.css.map": "/advice-app/static/css/2.007bafff.chunk.css.map",
+    "static/css/main.afd23e73.chunk.css.map": "/advice-app/static/css/main.afd23e73.chunk.css.map",
+    "static/js/2.516f7729.chunk.js.LICENSE.txt": "/advice-app/static/js/2.516f7729.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/advice-app/static/media/bg.2f0053a9.jpg",
+    "static/media/font-awesome.css": "/advice-app/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4983d25.js",
-    "static/css/2.4c25b0fb.chunk.css",
+    "static/js/runtime-main.a4d8b64a.js",
+    "static/css/2.007bafff.chunk.css",
     "static/js/2.516f7729.chunk.js",
-    "static/css/main.b6a552f5.chunk.css",
+    "static/css/main.afd23e73.chunk.css",
     "static/js/main.a717dc9f.chunk.js"
   ]
 }
